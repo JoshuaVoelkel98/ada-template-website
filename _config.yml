@@ -1,4 +1,4 @@
-theme: jekyll-theme-minimal
+theme: jekyll-theme-architect #jekyll-theme-minimal
 title: Analyzing the politicization on YouTube
 description: A template website for ADA
 show_downloads: True
